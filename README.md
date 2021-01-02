@@ -1,2 +1,8 @@
-# element-boilerplate-connection-ws
-@element boilerpalte for ws backends
+# @element/boilerplates/connection-ws
+
+### element.js boilerpalte for ws backends
+
+to run - 
+```bash
+npm install
+npm run dev  //builds, watches & runs
